@@ -1,3 +1,6 @@
+//Nama	: Andi Naufal Dwi Putra
+//NIM	: 103062300099
+
 package main
 
 import (
